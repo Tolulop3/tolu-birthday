@@ -1,1 +1,0 @@
-{ "name": "tolu-birthday", "private": true, "type": "module", "dependencies": { "@vercel/blob": "1.1.1" } }
